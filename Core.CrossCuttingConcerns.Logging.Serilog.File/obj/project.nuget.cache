@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+acvBVu76XeAhfDIa62m3DJmVXequhvTyeKlK2Et4wP9963F+IbwuuKC5DJOpa6hTM/sj+WMrtSmxvwx+ZUfrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askim\\OneDrive\\Masaüstü\\DEV\\CorePackages\\Core.CrossCuttingConcerns.Logging.Serilog.File\\Core.CrossCuttingConcerns.Logging.Serilog.File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askim\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\askim\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

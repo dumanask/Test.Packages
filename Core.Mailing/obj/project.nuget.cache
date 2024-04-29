@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zF6aqKR8Wsge28YG6IS3HJfqWByLaY6p2BhjkUu5U4mUTgxYY2LALQ3RoSK+AoEUd1Ija6er+cP26Ei/W94MOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askim\\OneDrive\\Masaüstü\\DEV\\CorePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askim\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
+    "C:\\Users\\askim\\.nuget\\packages\\mimekit\\4.5.0\\mimekit.4.5.0.nupkg.sha512",
+    "C:\\Users\\askim\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\askim\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

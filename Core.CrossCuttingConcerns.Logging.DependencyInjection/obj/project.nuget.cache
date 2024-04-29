@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "elbG9uyqSlslNla1vWlznJvzQZbvIRr2wGhsOzO5EdoTb1GKT/kXxy9XsfcYrho7+Ua52Cw0vuhqXqoe6BLDHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askim\\OneDrive\\Masaüstü\\DEV\\CorePackages\\Core.CrossCuttingConcerns.Logging.DependencyInjection\\Core.CrossCuttingConcerns.Logging.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

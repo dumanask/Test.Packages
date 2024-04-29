@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZMG8QfjIBW797Vl8FGeOv33BO+trC2Arc+IzjVvI0R7XXq+CdRSeUcAICRSiGQQ+L8qtHpP28cfcBwJZ52W4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askim\\OneDrive\\Masaüstü\\DEV\\CorePackages\\Core.Localization.Resource.Yaml\\Core.Localization.Resource.Yaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askim\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
